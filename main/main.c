@@ -3,7 +3,7 @@
 #include "wifi.h"
 #include "api_client.h"
 #include "ui.h"
-#include "app_config.h"
+#include "secrets.h"
 
 void app_main(void)
 {
